@@ -7,7 +7,7 @@
 - **Location:** Brest,Belarus
 - **Phone:** +375295238458
 - **Email:** romanbohdan147@gmail.com
-- **GitHub:** roman847
+- **GitHub:** @roman847
 
 ## About me
 
