@@ -56,6 +56,6 @@ B1(in process)
 
 ## My projects
 
-- [Tic-tac-toe] (https://github.com/roman847/Tic-tac-toe)
-- [Portfolio] (https://github.com/roman847/Portfolio)
-- [Movie-app] (https://github.com/roman847/Movie-application)
+- https://github.com/roman847/Tic-tac-toe
+- https://github.com/roman847/Portfolio
+- https://github.com/roman847/Movie-application
